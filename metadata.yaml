@@ -1,0 +1,23 @@
+_repo: Das-hohe-Ziel-der-Erkenntnis-Aranada-Upanishad_6110
+creator:
+  author:
+    agent_name: al-Raschid, Omar, bey
+    alias: Arndt, Friedrich
+    deathdate: 1910
+    gutenberg_agent_id: '1953'
+    url: http://www.gutenberg.org/2009/agents/1953
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6110'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Hindu'
+- !lcc 'BL'
+title: 'Das hohe Ziel der Erkenntnis: Aranada Upanishad'
+url: http://www.gutenberg.org/ebooks/6110
